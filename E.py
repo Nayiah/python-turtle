@@ -1,0 +1,20 @@
+#Python programming for E
+#using python turtle
+import turtle
+t = turtle.Turtle()
+t.fd(100)
+t.rt(-90)
+t.lt(90)
+t.fd(100)
+t.lt(90)
+t.fd(100)
+t.rt(-90)
+t.fd(100)
+t.rt(-90)
+t.lt(90)
+t.fd(100)
+t.rt(-90)
+t.fd(100)
+t.rt(-90)
+t.fd(100)
+turtle.done()
